@@ -1,1 +1,3 @@
 this is blah blah foo
+
+this is another line from file
