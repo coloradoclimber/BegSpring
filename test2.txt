@@ -1,5 +1,0 @@
-this is blah blah foo
-
-this is another line from file
-
-This is a second commit to develop (develop)
